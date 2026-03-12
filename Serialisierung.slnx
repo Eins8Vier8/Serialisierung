@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="01 - Verzeichnisinformationen/01 - Verzeichnisinformationen.csproj" />
+  <Project Path="02 - Produktinfo/02 - Produktinfo.csproj" Id="202fe939-b48b-415c-b5d1-b13e29f77254" />
   <Project Path="ConsoleApp2/ConsoleApp2.csproj" />
 </Solution>

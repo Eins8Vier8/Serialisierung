@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RootNamespace>_02___Produktinfo</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="8d99950f-62a7-40f1-af0a-1582cb287a6e.png" />
+    <None Remove="soccer-vfl-bochum-emblem-logo-hd-wallpaper-preview.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="8d99950f-62a7-40f1-af0a-1582cb287a6e.png" />
+    <Resource Include="soccer-vfl-bochum-emblem-logo-hd-wallpaper-preview.jpg" />
+  </ItemGroup>
+
+</Project>

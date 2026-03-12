@@ -1,0 +1,67 @@
+﻿<Window x:Class="_02___Produktinfo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_02___Produktinfo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Cursor="IBeam" RenderTransformOrigin="0.5,0.5" Height="434" VerticalAlignment="Top">
+        <Grid.Background>
+            <ImageBrush ImageSource="/soccer-vfl-bochum-emblem-logo-hd-wallpaper-preview.jpg" Stretch="Fill"/>
+        </Grid.Background>
+        <Grid.OpacityMask>
+            <ImageBrush ImageSource="/8d99950f-62a7-40f1-af0a-1582cb287a6e.png"/>
+        </Grid.OpacityMask>
+        <Grid.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform/>
+                <SkewTransform/>
+                <RotateTransform Angle="0.002"/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </Grid.RenderTransform>
+        <ComboBox x:Name="ComboKategorien" HorizontalAlignment="Left" Margin="48,56,0,0" VerticalAlignment="Top" Width="207" SelectionChanged="ComboKategorien_SelectionChanged">
+            <ComboBox.OpacityMask>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF0030F3" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.OpacityMask>
+            <ComboBox.BorderBrush>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF0257FF" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.BorderBrush>
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1">
+                    <GradientStop Color="#FFF0F0F0"/>
+                    <GradientStop Color="#FF0023E8" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+        </ComboBox>
+        <Label Content="Kategorien:" HorizontalAlignment="Left" Margin="43,30,0,0" VerticalAlignment="Top" Height="26" Width="70" Foreground="White"/>
+        <Label Content="Produktname:&#xD;&#xA;" HorizontalAlignment="Left" Margin="414,30,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <ListBox x:Name="ProduktBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="48,151,505,104"  SelectionChanged="ProduktBox_SelectionChanged" Foreground="White">
+            <ListBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF0004FF" Offset="1"/>
+                </LinearGradientBrush>
+            </ListBox.Background>
+        </ListBox>
+        <Label Content="Preis:&#xD;&#xA;" HorizontalAlignment="Left" Margin="416,111,0,0" VerticalAlignment="Top" Foreground="#FF0003CC"/>
+        <Label Content="Produkte" HorizontalAlignment="Left" Margin="48,120,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <TextBox x:Name="TextboxProduktname" HorizontalAlignment="Left" Margin="416,60,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" SelectionTextBrush="#FF0033FF">
+            <TextBox.OpacityMask>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF0049FB" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.OpacityMask>
+        </TextBox>
+        <TextBox x:Name="TextboxPreis" HorizontalAlignment="Left" Margin="416,151,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>
