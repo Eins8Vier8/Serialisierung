@@ -1,0 +1,362 @@
+[
+  {
+    "Pfad": "C:\\Windows\\ADFS",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1408724+02:00",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\appcompat",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1565006+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\apppatch",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1565006+02:00",
+    "AnzahlDateien": 7
+  },
+  {
+    "Pfad": "C:\\Windows\\AppReadiness",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1565006+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\assembly",
+    "ErstellungsDatum": "2021-05-08T10:20:24.0314982+02:00",
+    "AnzahlDateien": 2
+  },
+  {
+    "Pfad": "C:\\Windows\\bcastdvr",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1565006+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Boot",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1565006+02:00",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\Branding",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1721242+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\BrowserCore",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1721242+02:00",
+    "AnzahlDateien": 2
+  },
+  {
+    "Pfad": "C:\\Windows\\CbsTemp",
+    "ErstellungsDatum": "2021-05-08T10:06:52.3212118+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Containers",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1721242+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Cursors",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1721242+02:00",
+    "AnzahlDateien": 206
+  },
+  {
+    "Pfad": "C:\\Windows\\de-DE",
+    "ErstellungsDatum": "2021-05-08T16:57:29.9118896+02:00",
+    "AnzahlDateien": 9
+  },
+  {
+    "Pfad": "C:\\Windows\\debug",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1721242+02:00",
+    "AnzahlDateien": 6
+  },
+  {
+    "Pfad": "C:\\Windows\\diagnostics",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1721242+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\DiagTrack",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1877495+02:00",
+    "AnzahlDateien": 6
+  },
+  {
+    "Pfad": "C:\\Windows\\DigitalLocker",
+    "ErstellungsDatum": "2021-05-08T16:57:29.9431549+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Downloaded Program Files",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1877495+02:00",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\drivers",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1877495+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\ELAMBKUP",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1877495+02:00",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\en-US",
+    "ErstellungsDatum": "2021-05-08T16:57:29.9431549+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Fonts",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1877495+02:00",
+    "AnzahlDateien": 536
+  },
+  {
+    "Pfad": "C:\\Windows\\Globalization",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1877495+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Help",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1877495+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\IdentityCRL",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1877495+02:00",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\IME",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1877495+02:00",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\ImmersiveControlPanel",
+    "ErstellungsDatum": "2021-05-08T10:20:24.1877495+02:00",
+    "AnzahlDateien": 9
+  },
+  {
+    "Pfad": "C:\\Windows\\INF",
+    "ErstellungsDatum": "2021-05-08T10:18:50.1392975+02:00",
+    "AnzahlDateien": 1333
+  },
+  {
+    "Pfad": "C:\\Windows\\InputMethod",
+    "ErstellungsDatum": "2021-05-08T10:20:24.2033739+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Installer",
+    "ErstellungsDatum": "2021-05-08T10:20:24.2033739+02:00",
+    "AnzahlDateien": 381
+  },
+  {
+    "Pfad": "C:\\Windows\\L2Schemas",
+    "ErstellungsDatum": "2021-05-08T10:20:24.2033739+02:00",
+    "AnzahlDateien": 11
+  },
+  {
+    "Pfad": "C:\\Windows\\Logs",
+    "ErstellungsDatum": "2021-05-08T10:20:24.2033739+02:00",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\Media",
+    "ErstellungsDatum": "2021-05-08T10:20:24.218997+02:00",
+    "AnzahlDateien": 85
+  },
+  {
+    "Pfad": "C:\\Windows\\Microsoft.NET",
+    "ErstellungsDatum": "2021-05-08T10:20:24.0314982+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Migration",
+    "ErstellungsDatum": "2021-05-08T10:20:24.2971325+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\OCR",
+    "ErstellungsDatum": "2021-05-08T16:59:29.2090882+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Offline Web Pages",
+    "ErstellungsDatum": "2021-05-08T10:20:24.2971325+02:00",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\Panther",
+    "ErstellungsDatum": "2025-11-14T00:00:27.9162756+01:00",
+    "AnzahlDateien": 10
+  },
+  {
+    "Pfad": "C:\\Windows\\Performance",
+    "ErstellungsDatum": "2021-05-08T10:20:24.2971325+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\PLA",
+    "ErstellungsDatum": "2021-05-08T10:20:24.3127677+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\PolicyDefinitions",
+    "ErstellungsDatum": "2021-05-08T10:20:24.3127677+02:00",
+    "AnzahlDateien": 213
+  },
+  {
+    "Pfad": "C:\\Windows\\PrintDialog",
+    "ErstellungsDatum": "2021-05-08T10:20:24.3127677+02:00",
+    "AnzahlDateien": 6
+  },
+  {
+    "Pfad": "C:\\Windows\\Provisioning",
+    "ErstellungsDatum": "2021-05-08T10:20:24.3127677+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Registration",
+    "ErstellungsDatum": "2021-05-08T10:20:24.3127677+02:00",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\RemotePackages",
+    "ErstellungsDatum": "2021-05-08T10:20:24.3127677+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\rescache",
+    "ErstellungsDatum": "2021-05-08T10:20:24.3127677+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Resources",
+    "ErstellungsDatum": "2021-05-08T10:20:24.3127677+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\SchCache",
+    "ErstellungsDatum": "2021-05-08T10:20:24.3127677+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\schemas",
+    "ErstellungsDatum": "2021-05-08T10:20:24.3127677+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\security",
+    "ErstellungsDatum": "2021-05-08T10:20:24.3127677+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\ServiceProfiles",
+    "ErstellungsDatum": "2025-11-13T15:10:40.9685908+01:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\servicing",
+    "ErstellungsDatum": "2021-05-08T10:06:51.7150288+02:00",
+    "AnzahlDateien": 4
+  },
+  {
+    "Pfad": "C:\\Windows\\Setup",
+    "ErstellungsDatum": "2021-05-08T10:24:56.2079232+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\ShellComponents",
+    "ErstellungsDatum": "2021-05-08T10:20:24.3283808+02:00",
+    "AnzahlDateien": 2
+  },
+  {
+    "Pfad": "C:\\Windows\\ShellExperiences",
+    "ErstellungsDatum": "2021-05-08T10:20:24.3283808+02:00",
+    "AnzahlDateien": 13
+  },
+  {
+    "Pfad": "C:\\Windows\\SKB",
+    "ErstellungsDatum": "2021-05-08T10:20:24.3283808+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\SoftwareDistribution",
+    "ErstellungsDatum": "2025-11-13T15:13:35.5801676+01:00",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\Speech",
+    "ErstellungsDatum": "2021-05-08T10:20:24.3283808+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Speech_OneCore",
+    "ErstellungsDatum": "2021-05-08T10:20:24.3283808+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\System",
+    "ErstellungsDatum": "2021-05-08T10:20:24.3283808+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\System32",
+    "ErstellungsDatum": "2021-05-08T10:06:51.7150288+02:00",
+    "AnzahlDateien": 4189
+  },
+  {
+    "Pfad": "C:\\Windows\\SystemApps",
+    "ErstellungsDatum": "2021-05-08T10:20:24.5783866+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\SystemResources",
+    "ErstellungsDatum": "2021-05-08T10:20:24.6252659+02:00",
+    "AnzahlDateien": 140
+  },
+  {
+    "Pfad": "C:\\Windows\\SysWOW64",
+    "ErstellungsDatum": "2021-05-08T10:20:24.6408856+02:00",
+    "AnzahlDateien": 2699
+  },
+  {
+    "Pfad": "C:\\Windows\\TAPI",
+    "ErstellungsDatum": "2021-05-08T10:20:24.734647+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Tasks",
+    "ErstellungsDatum": "2021-05-08T10:20:24.734647+02:00",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\tracing",
+    "ErstellungsDatum": "2021-05-08T10:20:24.734647+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\twain_32",
+    "ErstellungsDatum": "2021-05-08T10:20:24.734647+02:00",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\Vss",
+    "ErstellungsDatum": "2021-05-08T10:20:24.734647+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\WaaS",
+    "ErstellungsDatum": "2021-05-08T10:20:24.734647+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Web",
+    "ErstellungsDatum": "2021-05-08T10:20:24.734647+02:00",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\WinSxS",
+    "ErstellungsDatum": "2021-05-08T10:06:51.7150288+02:00",
+    "AnzahlDateien": 3
+  }
+]
