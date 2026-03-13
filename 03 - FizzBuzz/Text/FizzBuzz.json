@@ -1,0 +1,14 @@
+[
+  {
+    "Value": 3,
+    "Output": "drei"
+  },
+  {
+    "Value": 5,
+    "Output": "f\u00FCnf"
+  },
+  {
+    "Value": 10,
+    "Output": "zehn"
+  }
+]

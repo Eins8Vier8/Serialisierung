@@ -42,7 +42,7 @@
             </ComboBox.Background>
         </ComboBox>
         <Label Content="Kategorien:" HorizontalAlignment="Left" Margin="43,30,0,0" VerticalAlignment="Top" Height="26" Width="70" Foreground="White"/>
-        <Label Content="Produktname:&#xD;&#xA;" HorizontalAlignment="Left" Margin="414,30,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content="Produktname:&#xD;&#xA;" HorizontalAlignment="Left" Margin="483,30,0,0" VerticalAlignment="Top" Foreground="White"/>
         <ListBox x:Name="ProduktBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="48,151,505,104"  SelectionChanged="ProduktBox_SelectionChanged" Foreground="White">
             <ListBox.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
@@ -51,9 +51,22 @@
                 </LinearGradientBrush>
             </ListBox.Background>
         </ListBox>
-        <Label Content="Preis:&#xD;&#xA;" HorizontalAlignment="Left" Margin="416,111,0,0" VerticalAlignment="Top" Foreground="#FF0003CC"/>
+        <Label Content="Preis:&#xD;&#xA;" HorizontalAlignment="Left" Margin="485,98,0,0" VerticalAlignment="Top" Foreground="#FFEFEFEF" Background="Transparent">
+            <Label.OpacityMask>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="Black" Offset="1"/>
+                </LinearGradientBrush>
+            </Label.OpacityMask>
+            <Label.BorderBrush>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="Black" Offset="1"/>
+                </LinearGradientBrush>
+            </Label.BorderBrush>
+        </Label>
         <Label Content="Produkte" HorizontalAlignment="Left" Margin="48,120,0,0" VerticalAlignment="Top" Foreground="White"/>
-        <TextBox x:Name="TextboxProduktname" HorizontalAlignment="Left" Margin="416,60,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" SelectionTextBrush="#FF0033FF">
+        <TextBox x:Name="TextboxProduktname" HorizontalAlignment="Left" Margin="485,60,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" SelectionTextBrush="#FF0033FF">
             <TextBox.OpacityMask>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="Black"/>
@@ -61,7 +74,14 @@
                 </LinearGradientBrush>
             </TextBox.OpacityMask>
         </TextBox>
-        <TextBox x:Name="TextboxPreis" HorizontalAlignment="Left" Margin="416,151,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextboxPreis" HorizontalAlignment="Left" Margin="488,130,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" SelectionTextBrush="White" Background="#FF004AFF" Foreground="White">
+            <TextBox.OpacityMask>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF000FF3" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.OpacityMask>
+        </TextBox>
 
     </Grid>
 </Window>

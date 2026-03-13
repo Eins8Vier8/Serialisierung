@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="01 - Verzeichnisinformationen/01 - Verzeichnisinformationen.csproj" />
   <Project Path="02 - Produktinfo/02 - Produktinfo.csproj" Id="202fe939-b48b-415c-b5d1-b13e29f77254" />
+  <Project Path="03 - FizzBuzz/03 - FizzBuzz.csproj" Id="7afd0226-4d5a-4a75-97cf-679bd16c440f" />
   <Project Path="ConsoleApp2/ConsoleApp2.csproj" />
 </Solution>

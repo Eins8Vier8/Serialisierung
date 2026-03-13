@@ -55,19 +55,18 @@ namespace _02___Produktinfo
 
         private void ComboKategorien_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            if (ComboKategorien.SelectedItem is Kategorie Auswahl)
+            if (ComboKategorien.SelectedItem is Kategorie AuswahlKategorie)
             {
-                ProduktBox.ItemsSource = Auswahl.Products;
+                ProduktBox.ItemsSource = AuswahlKategorie.Products;
             }
-            
         }
 
         private void ProduktBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            if (ProduktBox.SelectedItem is Produkt p)
+            if (ProduktBox.SelectedItem is Produkt AuswahlProdukt)
             {
-                TextboxProduktname.Text = p.Name;
-                TextboxPreis.Text = p.Price.ToString()+" €";
+                TextboxProduktname.Text = AuswahlProdukt.Name;
+                TextboxPreis.Text = AuswahlProdukt.Price.ToString()+" €";
             }
         }
     }
